@@ -10,7 +10,7 @@ This digital twin simulates a 7-node water distribution network with the ability
 # Installation:
 1. Clone the repo
    
-   git clone https://github.com/kieranfarrar04/dt-water-project.git
+   git clone https://github.com/kieranfarrar04/dt-water-project.git  
    cd water-distribution-digital-twin
 
 2. Create Virtual Environment
@@ -38,7 +38,7 @@ Adjust key parameters in real time:
 - Junction J2 Demand (0-20L/s)
 - Junction J3 Demand (0-20L/s)
 
-Network Status Visualisation
+Network Status Visualisation  
 An interactive network diagram that shows:
 
 - Node pressures
