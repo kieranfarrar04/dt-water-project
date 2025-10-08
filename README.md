@@ -43,6 +43,7 @@ An interactive network diagram that shows:
 - Pipe flow rates
 - Flow direction
 - Hoverable details for all components
+  
 ![Network Diagram](images/networkhover.PNG)
 
 Real Time Monitoring
