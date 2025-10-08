@@ -29,7 +29,7 @@ This digital twin simulates a 7-node water distribution network with the ability
    
    pip install -r requirements.txt
 
-5. Run the application
+5. Run the application  
    python water_twin_dashboard.py
 
 # Dashboard Features
