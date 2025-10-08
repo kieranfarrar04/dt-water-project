@@ -10,10 +10,11 @@ This digital twin simulates a 7-node water distribution network with the ability
 # Installation:
 1. Clone the repo
    
-   git clone https://github.com/kieranfarrar04/dt-water-project.git  
+   git clone https://github.com/kieranfarrar04/dt-water-project.git
+   
    cd water-distribution-digital-twin
 
-2. Create Virtual Environment
+3. Create Virtual Environment
    
    python -m venv venv
    
