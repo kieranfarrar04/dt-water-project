@@ -38,7 +38,8 @@ Adjust key parameters in real time:
 - Junction J2 Demand (0-20L/s)
 - Junction J3 Demand (0-20L/s)
 
-Network Status Visualisation  
+![Sliders](images/sliders.PNG)
+
 An interactive network diagram that shows:
 
 - Node pressures
