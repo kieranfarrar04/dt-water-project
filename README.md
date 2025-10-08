@@ -7,7 +7,7 @@ A real-time hydraulic simulation dashboard for a water distribution network, mad
 
 This digital twin simulates a 7-node water distribution network with the ability to monitor the flow rates in the pipes and pressures at nodes in real-time. Users can interactively adjust system parameters and observe the responses throughout the network.
 
-Installation:
+# Installation:
 1. Clone the repo
    
    git clone https://github.com/kieranfarrar04/dt-water-project.git
@@ -17,10 +17,10 @@ Installation:
    
    python -m venv venv
    
-   # Windows
+   Windows
    venv\Scripts\activate
    
-   # macOS/Linux
+   macOS/Linux
    source venv/bin/activate
    
 4. Install Dependencies
@@ -30,7 +30,7 @@ Installation:
 5. Run the application
    python water_twin_dashboard.py
 
-Dashboard Features
+# Dashboard Features
 Adjust key parameters in real time:
 - Reservoir Head (80-120m)
 - Junction J2 Demand (0-20L/s)
