@@ -1,5 +1,6 @@
 """
-Digital Twin of a Water Distribution System personal project
+Digital Twin of a Water Distribution System Personal Project
+Kieran Farrar
 """
 
 import dash
@@ -479,3 +480,4 @@ if __name__ == '__main__':
     print("WATER DISTRIBUTION SYSTEM - DIGITAL TWIN (WNTR)") 
 
     app.run_server(debug=False, host='127.0.0.1', port=8050)
+
