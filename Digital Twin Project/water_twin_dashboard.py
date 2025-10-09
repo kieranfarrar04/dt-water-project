@@ -1,5 +1,5 @@
 """
-Digital Twin of a Water Distrobution system personal project
+Digital Twin of a Water Distribution System personal project
 """
 
 import dash
@@ -477,4 +477,5 @@ def update_graphs(n):
 
 if __name__ == '__main__':
     print("WATER DISTRIBUTION SYSTEM - DIGITAL TWIN (WNTR)") 
+
     app.run_server(debug=False, host='127.0.0.1', port=8050)
