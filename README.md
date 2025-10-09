@@ -3,7 +3,7 @@ Digital twin of water distribution system using Python and WNTR
 
 ![Demo](images/demo.gif)
 
-A real-time hydraulic simulation dashboard for a water distribution network, made in Python utilising the WNTR (Water Network Tool for Resilience) package. This project demonstrates digital twin concepts that apply to real-world systems and are particularly useful for predictive maintenance and real-time monitoring across energy, aerospace, nuclear and utilities sectors.
+A real-time hydraulic simulation dashboard for a water distribution network, made in Python utilising the WNTR (Water Network Tool for Resilience) package. This project demonstrates a simulated digital twin that can be applied to real-world systems, allowing for predictive maintenance and real-time monitoring across energy, aerospace, nuclear and utilities sectors.
 
 This digital twin simulates a 7-node water distribution network with the ability to monitor the flow rates in the pipes and pressures at nodes in real-time. Users can interactively adjust system parameters and observe the responses throughout the network.
 
